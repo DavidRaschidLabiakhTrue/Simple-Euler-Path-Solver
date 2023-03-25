@@ -2,8 +2,6 @@
 #include "SimpleEulerSolver.hpp"
 
 #include <iostream>
-#include <map>
-#include <vector>
 
 
 
